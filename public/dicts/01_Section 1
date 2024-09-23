@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "school" ,
+        "trans" : ["n.学校"]
+    },
+    {
+		"name" : "schooling",
+		"trans" : ["n.学校教育"]
+	},
+	 {
+		"name" : "unschooled",
+		"trans" : ["n.未受过正式教育的"]
+	},
+	 {
+		"name" : "schoolchild",
+		"trans" : ["n.小学生"]
+	},
+	 {
+		"name" : "schoolboy",
+		"trans" : ["n.（中小学）男学生"]
+	},
+	 {
+		"name" : "schoolgirl",
+		"trans" : ["n.（中小学）女学生"]
+	},
+]
