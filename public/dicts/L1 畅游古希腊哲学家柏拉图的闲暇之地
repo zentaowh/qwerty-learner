@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "shcool",
+    "trans": [
+      "n.学校"
+    ]
+  },
+  {
+    "name": "I",
+    "trans": [
+      "我"
+    ]
+  },
+  {
+    "name": "be",
+    "trans": [
+      "是"
+    ]
+  },
+  {
+    "name": "am",
+    "trans": [
+      "是"
+    ]
+  },
+  {
+    "name": "is",
+    "trans": [
+      "是"
+    ]
+  },
+  {
+    "name": "are",
+    "trans": [
+      "是"
+    ]
+  },
+  {
+    "name": "what",
+    "trans": [
+      "什么"
+    ]
+  },
+  {
+    "name": "your",
+    "trans": [
+      "你的；你们的"
+    ]
+  },
+  {
+    "name": "name",
+    "trans": [
+      "名字"
+    ]
+  },
+  {
+    "name": "hello",
+    "trans": [
+      "喂，哈喽，你好"
+    ]
+  },
+  {
+    "name": "my",
+    "trans": [
+      "我的"
+    ]
+  },
+  {
+    "name": "goodbye",
+    "trans": [
+      "再见"
+    ]
+  },
+  {
+    "name": "have",
+    "trans": [
+      "有，拥有"
+    ]
+  },
+  {
+    "name": "a",
+    "trans": [
+      "一（个）"
+    ]
+  },
+  {
+    "name": "an",
+    "trans": [
+      "一（个）"
+    ]
+  },
+  {
+    "name": "nice",
+    "trans": [
+      "令人愉快的"
+    ]
+  },
+  {
+    "name": "day",
+    "trans": [
+      "一天"
+    ]
+  },
+  {
+    "name": "good",
+    "trans": [
+      "好的"
+    ]
+  },
+  {
+    "name": "morning",
+    "trans": [
+      "早晨，上午"
+    ]
+  },
+  {
+    "name": "Ms",
+    "trans": [
+      "女士"
+    ]
+  },
+  {
+    "name": "stand",
+    "trans": [
+      "站立"
+    ]
+  },
+  {
+    "name": "stand up",
+    "trans": [
+      "站起来"
+    ]
+  },
+  {
+    "name": "sit",
+    "trans": [
+      "坐"
+    ]
+  },
+  {
+    "name": "sit down",
+    "trans": [
+      "坐下"
+    ]
+  },
+  {
+    "name": "open",
+    "trans": [
+      "打开"
+    ]
+  },
+  {
+    "name": "book",
+    "trans": [
+      "书"
+    ]
+  },
+  {
+    "name": "close",
+    "trans": [
+      "合上"
+    ]
+  },
+  {
+    "name": "point",
+    "trans": [
+      "指，指向"
+    ]
+  },
+  {
+    "name": "say",
+    "trans": [
+      "说"
+    ]
+  },
+  {
+    "name": "read",
+    "trans": [
+      "阅读"
+    ]
+  },
+  {
+    "name": "listen",
+    "trans": [
+      "听"
+    ]
+  },
+  {
+    "name": "write",
+    "trans": [
+      "写"
+    ]
+  },
+  {
+    "name": "let's",
+    "trans": [
+      "让我们"
+    ]
+  },
+  {
+    "name": "let us",
+    "trans": [
+      "让我们"
+    ]
+  },
+  {
+    "name": "friend",
+    "trans": [
+      "朋友"
+    ]
+  },
+  {
+    "name": "to",
+    "trans": [
+      "向，到，往；（用于动词、名词或形容词后，使意思完整）"
+    ]
+  },
+  {
+    "name": "meet",
+    "trans": [
+      "认识，结识"
+    ]
+  },
+  {
+    "name": "you",
+    "trans": [
+      "你；你们"
+    ]
+  },
+  {
+    "name": "play",
+    "trans": [
+      "玩，玩耍"
+    ]
+  },
+  {
+    "name": "happy",
+    "trans": [
+      "高兴的，快乐的"
+    ]
+  },
+  {
+    "name": "new",
+    "trans": [
+      "新的"
+    ]
+  },
+  {
+    "name": "do",
+    "trans": [
+      "做；（构成疑问句或否定句）"
+    ]
+  },
+  {
+    "name": "they",
+    "trans": [
+      "他们"
+    ]
+  },
+  {
+    "name": "welcome",
+    "trans": [
+      "欢迎"
+    ]
+  },
+  {
+    "name": "everyone",
+    "trans": [
+      "每个人，人人"
+    ]
+  },
+  {
+    "name": "nine",
+    "trans": [
+      "九"
+    ]
+  },
+  {
+    "name": "she",
+    "trans": [
+      "她"
+    ]
+  },
+  {
+    "name": "too",
+    "trans": [
+      "也"
+    ]
+  },
+  {
+    "name": "we",
+    "trans": [
+      "我们"
+    ]
+  },
+  {
+    "name": "from",
+    "trans": [
+      "从"
+    ]
+  },
+  {
+    "name": "the",
+    "trans": [
+      "（用于表示正在谈论一个已经提到过、已经知道，或是唯一存在的人或物）"
+    ]
+  },
+  {
+    "name": "twin",
+    "trans": [
+      "双胞胎中的一个"
+    ]
+  },
+  {
+    "name": "he",
+    "trans": [
+      "他"
+    ]
+  },
+  {
+    "name": "come",
+    "trans": [
+      "来；来到"
+    ]
+  },
+  {
+    "name": "and",
+    "trans": [
+      "然后，接着；和"
+    ]
+  },
+  {
+    "name": "oh",
+    "trans": [
+      "噢"
+    ]
+  },
+  {
+    "name": "no",
+    "trans": [
+      "不，不行"
+    ]
+  },
+  {
+    "name": "help",
+    "trans": [
+      "帮助，帮忙"
+    ]
+  },
+  {
+    "name": "here",
+    "trans": [
+      "在这里"
+    ]
+  },
+  {
+    "name": "here you are",
+    "trans": [
+      "给你"
+    ]
+  },
+  {
+    "name": "thank",
+    "trans": [
+      "感谢，向……表示感谢"
+    ]
+  },
+  {
+    "name": "together",
+    "trans": [
+      "一起，一块儿"
+    ]
+  },
+  {
+    "name": "OK",
+    "trans": [
+      "行，可以"
+    ]
+  },
+  {
+    "name": "great",
+    "trans": [
+      "极棒的，极好的"
+    ]
+  },
+  {
+    "name": "song",
+    "trans": [
+      "歌曲"
+    ]
+  },
+  {
+    "name": "dear",
+    "trans": [
+      "亲爱的"
+    ]
+  },
+  {
+    "name": "sing",
+    "trans": [
+      "唱，歌唱"
+    ]
+  },
+  {
+    "name": "now",
+    "trans": [
+      "现在"
+    ]
+  },
+  {
+    "name": "know",
+    "trans": [
+      "认识"
+    ]
+  },
+  {
+    "name": "our",
+    "trans": [
+      "我们的"
+    ]
+  },
+  {
+    "name": "everybody",
+    "trans": [
+      "每个人，人人"
+    ]
+  },
+  {
+    "name": "with",
+    "trans": [
+      "和……一起"
+    ]
+  },
+  {
+    "name": "me",
+    "trans": [
+      "我"
+    ]
+  },
+  {
+    "name": "school",
+    "trans": [
+      "学校"
+    ]
+  },
+  {
+    "name": "thing",
+    "trans": [
+      "东西"
+    ]
+  },
+  {
+    "name": "pack",
+    "trans": [
+      "收拾好"
+    ]
+  },
+  {
+    "name": "pen",
+    "trans": [
+      "钢笔"
+    ]
+  },
+  {
+    "name": "pencil",
+    "trans": [
+      "铅笔"
+    ]
+  },
+  {
+    "name": "pencil case",
+    "trans": [
+      "笔袋；铅笔盒"
+    ]
+  },
+  {
+    "name": "bag",
+    "trans": [
+      "袋；包"
+    ]
+  },
+  {
+    "name": "for",
+    "trans": [
+      "为了"
+    ]
+  },
+  {
+    "name": "ruler",
+    "trans": [
+      "尺子，直尺"
+    ]
+  },
+  {
+    "name": "eraser",
+    "trans": [
+      "橡皮"
+    ]
+  },
+  {
+    "name": "this",
+    "trans": [
+      "这，这个"
+    ]
+  },
+  {
+    "name": "in",
+    "trans": [
+      "在……里"
+    ]
+  },
+  {
+    "name": "schoolbag",
+    "trans": [
+      "书包"
+    ]
+  },
+  {
+    "name": "it",
+    "trans": [
+      "它"
+    ]
+  },
+  {
+    "name": "not",
+    "trans": [
+      "不，不是"
+    ]
+  },
+  {
+    "name": "that",
+    "trans": [
+      "那，那个"
+    ]
+  },
+  {
+    "name": "yes",
+    "trans": [
+      "是，对"
+    ]
+  },
+  {
+    "name": "guess",
+    "trans": [
+      "猜，猜测"
+    ]
+  },
+  {
+    "name": "find",
+    "trans": [
+      "发现，找到"
+    ]
+  },
+  {
+    "name": "lost and found",
+    "trans": [
+      "失物招领"
+    ]
+  },
+  {
+    "name": "bye",
+    "trans": [
+      "再见，拜拜"
+    ]
+  },
+  {
+    "name": "kid",
+    "trans": [
+      "小孩，儿童"
+    ]
+  },
+  {
+    "name": "take care of sb",
+    "trans": [
+      "照看（照料）某人"
+    ]
+  },
+  {
+    "name": "somebody",
+    "trans": [
+      "某人，某个人"
+    ]
+  },
+  {
+    "name": "take care of sth",
+    "trans": [
+      "照看（照料）某物"
+    ]
+  },
+  {
+    "name": "something",
+    "trans": [
+      "某事，某物"
+    ]
+  },
+  {
+    "name": "there",
+    "trans": [
+      "在那里"
+    ]
+  },
+  {
+    "name": "please",
+    "trans": [
+      "请"
+    ]
+  },
+  {
+    "name": "back",
+    "trans": [
+      "回到某处"
+    ]
+  },
+  {
+    "name": "came back",
+    "trans": [
+      "回来"
+    ]
+  },
+  {
+    "name": "look",
+    "trans": [
+      "看，瞧，望"
+    ]
+  },
+  {
+    "name": "look at sb",
+    "trans": [
+      "看某人"
+    ]
+  },
+  {
+    "name": "look at sth",
+    "trans": [
+      "看某物"
+    ]
+  },
+  {
+    "name": "colourful",
+    "trans": [
+      "颜色鲜艳的；色彩丰富的"
+    ]
+  },
+  {
+    "name": "world",
+    "trans": [
+      "世界"
+    ]
+  },
+  {
+    "name": "hooray",
+    "trans": [
+      "好哇"
+    ]
+  },
+  {
+    "name": "umbrella",
+    "trans": [
+      "伞；雨伞"
+    ]
+  },
+  {
+    "name": "clothes",
+    "trans": [
+      "衣服"
+    ]
+  },
+  {
+    "name": "red",
+    "trans": [
+      "红色（的）"
+    ]
+  },
+  {
+    "name": "pink",
+    "trans": [
+      "粉红色（的）"
+    ]
+  },
+  {
+    "name": "green",
+    "trans": [
+      "绿色（的）"
+    ]
+  },
+  {
+    "name": "yellow",
+    "trans": [
+      "黄色（的）"
+    ]
+  },
+  {
+    "name": "orange",
+    "trans": [
+      "橙色（的）"
+    ]
+  },
+  {
+    "name": "blue",
+    "trans": [
+      "蓝色（的）"
+    ]
+  },
+  {
+    "name": "purple",
+    "trans": [
+      "紫色（的）"
+    ]
+  },
+  {
+    "name": "rainbow",
+    "trans": [
+      "彩虹"
+    ]
+  },
+  {
+    "name": "want",
+    "trans": [
+      "想要"
+    ]
+  },
+  {
+    "name": "balloon",
+    "trans": [
+      "气球"
+    ]
+  },
+  {
+    "name": "colour",
+    "trans": [
+      "颜色"
+    ]
+  },
+  {
+    "name": "can",
+    "trans": [
+      "能，会"
+    ]
+  },
+  {
+    "name": "see",
+    "trans": [
+      "看见，看到"
+    ]
+  },
+  {
+    "name": "right",
+    "trans": [
+      "正确的，对的"
+    ]
+  },
+  {
+    "name": "first",
+    "trans": [
+      "第一的；首先；最初"
+    ]
+  },
+  {
+    "name": "magical",
+    "trans": [
+      "美妙的；有魔力的"
+    ]
+  },
+  {
+    "name": "fun",
+    "trans": [
+      "有趣的，逗乐的"
+    ]
+  },
+  {
+    "name": "black",
+    "trans": [
+      "黑色（的）"
+    ]
+  },
+  {
+    "name": "so",
+    "trans": [
+      "这么，如此"
+    ]
+  },
+  {
+    "name": "many",
+    "trans": [
+      "许多，大量"
+    ]
+  },
+  {
+    "name": "picture",
+    "trans": [
+      "画，图画"
+    ]
+  },
+  {
+    "name": "today",
+    "trans": [
+      "今天"
+    ]
+  },
+  {
+    "name": "paint",
+    "trans": [
+      "画，作画"
+    ]
+  },
+  {
+    "name": "number",
+    "trans": [
+      "数，数字"
+    ]
+  },
+  {
+    "name": "count",
+    "trans": [
+      "数数"
+    ]
+  },
+  {
+    "name": "how",
+    "trans": [
+      "多少；怎样，如何"
+    ]
+  },
+  {
+    "name": "bird",
+    "trans": [
+      "鸟"
+    ]
+  },
+  {
+    "name": "one",
+    "trans": [
+      "一"
+    ]
+  },
+  {
+    "name": "two",
+    "trans": [
+      "二"
+    ]
+  },
+  {
+    "name": "three",
+    "trans": [
+      "三"
+    ]
+  },
+  {
+    "name": "four",
+    "trans": [
+      "四"
+    ]
+  },
+  {
+    "name": "five",
+    "trans": [
+      "五"
+    ]
+  },
+  {
+    "name": "six",
+    "trans": [
+      "六"
+    ]
+  },
+  {
+    "name": "seven",
+    "trans": [
+      "七"
+    ]
+  },
+  {
+    "name": "eight",
+    "trans": [
+      "八"
+    ]
+  },
+  {
+    "name": "ten",
+    "trans": [
+      "十"
+    ]
+  },
+  {
+    "name": "eleven",
+    "trans": [
+      "十一"
+    ]
+  },
+  {
+    "name": "twelve",
+    "trans": [
+      "十二"
+    ]
+  },
+  {
+    "name": "rope",
+    "trans": [
+      "绳"
+    ]
+  },
+  {
+    "name": "who",
+    "trans": [
+      "谁，什么人"
+    ]
+  },
+  {
+    "name": "make",
+    "trans": [
+      "制作"
+    ]
+  },
+  {
+    "name": "Chinese knot",
+    "trans": [
+      "中国结"
+    ]
+  },
+  {
+    "name": "beautiful",
+    "trans": [
+      "美丽的"
+    ]
+  },
+  {
+    "name": "only",
+    "trans": [
+      "仅仅"
+    ]
+  },
+  {
+    "name": "amazing",
+    "trans": [
+      "令人惊讶的"
+    ]
+  },
+  {
+    "name": "show",
+    "trans": [
+      "给……看"
+    ]
+  },
+  {
+    "name": "baby",
+    "trans": [
+      "幼崽；雏鸟"
+    ]
+  },
+  {
+    "name": "cheep",
+    "trans": [
+      "吱吱（或唧唧）的叫声"
+    ]
+  },
+  {
+    "name": "egg",
+    "trans": [
+      "蛋"
+    ]
+  },
+  {
+    "name": "hungry",
+    "trans": [
+      "饥饿的"
+    ]
+  },
+  {
+    "name": "around",
+    "trans": [
+      "环绕，在（……）周围"
+    ]
+  },
+  {
+    "name": "all",
+    "trans": [
+      "全部，所有"
+    ]
+  },
+  {
+    "name": "all around",
+    "trans": [
+      "处处，导出"
+    ]
+  },
+  {
+    "name": "big",
+    "trans": [
+      "大的"
+    ]
+  },
+  {
+    "name": "little",
+    "trans": [
+      "小的"
+    ]
+  },
+  {
+    "name": "everywhere",
+    "trans": [
+      "在各个地方；处处"
+    ]
+  },
+  {
+    "name": "family",
+    "trans": [
+      "家庭；家人"
+    ]
+  },
+  {
+    "name": "dad",
+    "trans": [
+      "爸爸"
+    ]
+  },
+  {
+    "name": "father",
+    "trans": [
+      "爸爸"
+    ]
+  },
+  {
+    "name": "mum",
+    "trans": [
+      "妈妈"
+    ]
+  },
+  {
+    "name": "mother",
+    "trans": [
+      "妈妈"
+    ]
+  },
+  {
+    "name": "brother",
+    "trans": [
+      "哥哥；弟弟"
+    ]
+  },
+  {
+    "name": "sister",
+    "trans": [
+      "姐姐；妹妹"
+    ]
+  },
+  {
+    "name": "grandpa",
+    "trans": [
+      "祖父；外祖父"
+    ]
+  },
+  {
+    "name": "grandfather",
+    "trans": [
+      "祖父；外祖父"
+    ]
+  },
+  {
+    "name": "grandma",
+    "trans": [
+      "祖母；外祖母"
+    ]
+  },
+  {
+    "name": "grandmother",
+    "trans": [
+      "祖母；外祖母"
+    ]
+  },
+  {
+    "name": "but",
+    "trans": [
+      "但是，然而"
+    ]
+  },
+  {
+    "name": "people",
+    "trans": [
+      "人；人们"
+    ]
+  },
+  {
+    "name": "story",
+    "trans": [
+      "故事"
+    ]
+  },
+  {
+    "name": "cap",
+    "trans": [
+      "帽子"
+    ]
+  },
+  {
+    "name": "worry",
+    "trans": [
+      "担心"
+    ]
+  },
+  {
+    "name": "on",
+    "trans": [
+      "在……上面"
+    ]
+  },
+  {
+    "name": "come on",
+    "trans": [
+      "快点；加油"
+    ]
+  },
+  {
+    "name": "photo",
+    "trans": [
+      "照片，相片"
+    ]
+  },
+  {
+    "name": "love",
+    "trans": [
+      "爱，关爱"
+    ]
+  },
+  {
+    "name": "daddy",
+    "trans": [
+      "爸爸"
+    ]
+  },
+  {
+    "name": "mummy",
+    "trans": [
+      "妈妈"
+    ]
+  },
+  {
+    "name": "where",
+    "trans": [
+      "在哪里"
+    ]
+  },
+  {
+    "name": "dog",
+    "trans": [
+      "狗"
+    ]
+  },
+  {
+    "name": "box",
+    "trans": [
+      "盒；箱"
+    ]
+  },
+  {
+    "name": "sweet",
+    "trans": [
+      "甜蜜的"
+    ]
+  },
+  {
+    "name": "home",
+    "trans": [
+      "家"
+    ]
+  },
+  {
+    "name": "game",
+    "trans": [
+      "游戏"
+    ]
+  },
+  {
+    "name": "room",
+    "trans": [
+      "房间"
+    ]
+  },
+  {
+    "name": "living room",
+    "trans": [
+      "客厅"
+    ]
+  },
+  {
+    "name": "bedroom",
+    "trans": [
+      "卧室"
+    ]
+  },
+  {
+    "name": "bathroom",
+    "trans": [
+      "浴室，卫生间"
+    ]
+  },
+  {
+    "name": "kitchen",
+    "trans": [
+      "厨房"
+    ]
+  },
+  {
+    "name": "dining room",
+    "trans": [
+      "餐厅"
+    ]
+  },
+  {
+    "name": "door",
+    "trans": [
+      "门"
+    ]
+  },
+  {
+    "name": "chair",
+    "trans": [
+      "椅子"
+    ]
+  },
+  {
+    "name": "think",
+    "trans": [
+      "想，认为"
+    ]
+  },
+  {
+    "name": "under",
+    "trans": [
+      "在……下面；在……底下"
+    ]
+  },
+  {
+    "name": "bed",
+    "trans": [
+      "床"
+    ]
+  },
+  {
+    "name": "toy",
+    "trans": [
+      "玩具"
+    ]
+  },
+  {
+    "name": "miaow",
+    "trans": [
+      "咪，喵（猫叫声）"
+    ]
+  },
+  {
+    "name": "table",
+    "trans": [
+      "桌子"
+    ]
+  },
+  {
+    "name": "cat",
+    "trans": [
+      "猫"
+    ]
+  },
+  {
+    "name": "ball",
+    "trans": [
+      "球"
+    ]
+  },
+  {
+    "name": "their",
+    "trans": [
+      "他们的"
+    ]
+  },
+  {
+    "name": "apple",
+    "trans": [
+      "苹果"
+    ]
+  },
+  {
+    "name": "share",
+    "trans": [
+      "共用；分享"
+    ]
+  },
+  {
+    "name": "put",
+    "trans": [
+      "放"
+    ]
+  },
+  {
+    "name": "cooking",
+    "trans": [
+      "做饭"
+    ]
+  },
+  {
+    "name": "sun",
+    "trans": [
+      "太阳"
+    ]
+  },
+  {
+    "name": "like",
+    "trans": [
+      "喜欢"
+    ]
+  },
+  {
+    "name": "run",
+    "trans": [
+      "跑"
+    ]
+  },
+  {
+    "name": "lucky",
+    "trans": [
+      "幸运的"
+    ]
+  }
+]
