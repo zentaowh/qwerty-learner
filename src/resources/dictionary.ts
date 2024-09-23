@@ -3,6 +3,17 @@ import { calcChapterCount } from '@/utils'
 
 // 中国考试
 const chinaExam: DictionaryResource[] = [
+   {
+    id: 'CET-1',
+    name: '第一节_畅游古希腊哲学家柏拉图的闲暇之地',
+    description: '词根1-schol学校',
+    category: '中国考试',
+    tags: ['L1-词入佳境'],
+    url: '/dicts/01_Section 1.json',
+    length: 5,
+    language: 'en',
+    languageCategory: 'en',
+  },
   {
     id: 'cet4',
     name: 'CET-4',
